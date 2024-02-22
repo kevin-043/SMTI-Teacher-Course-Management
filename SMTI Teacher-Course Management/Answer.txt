@@ -1,0 +1,25 @@
+﻿Question 1 Database Design and Implementation (20 points)
+	1. Table Design
+	2. Relationship (ER Diagram)
+	 Note: You are allowed to use SQL Server Management Studio 18 for
+	 the Database Design
+
+
+
+Question 2 Web Application Design (30 points)
+	Specify what you should do for the Web Application.
+
+
+
+
+
+Question 3 Web Application Implementation (30 points)
+	Use Visual Studio 2022
+
+
+
+
+
+Question 4 Testing the Web Application (20 points)
+	 Test the Web application using the following Browsers
+	 Google Chrome, Microsoft Edge and Firefox 
